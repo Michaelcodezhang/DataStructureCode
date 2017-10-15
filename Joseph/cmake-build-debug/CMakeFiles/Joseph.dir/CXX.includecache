@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaelcode/workPlace/CLionProjects/Joseph/Joseph.cpp
+iostream
+-
+main.h
+/home/michaelcode/workPlace/CLionProjects/Joseph/main.h
+malloc.h
+/home/michaelcode/workPlace/CLionProjects/Joseph/malloc.h
+
+/home/michaelcode/workPlace/CLionProjects/Joseph/main.cpp
+iostream
+-
+main.h
+/home/michaelcode/workPlace/CLionProjects/Joseph/main.h
+
+/home/michaelcode/workPlace/CLionProjects/Joseph/main.h
+
