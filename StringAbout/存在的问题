@@ -1,0 +1,1 @@
+**问题一**：String类变量中（如：定义HString S），不能用free释放S.ch所占的内存空间，例如运行``if(S.ch){free(S.ch)``时，会报错： SIGSEGV (Segmentation fault)                                  **状态**:不能解决

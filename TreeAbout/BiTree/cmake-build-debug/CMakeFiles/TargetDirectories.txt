@@ -1,0 +1,3 @@
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/TreeAbout/BiTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/TreeAbout/BiTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/TreeAbout/BiTree/cmake-build-debug/CMakeFiles/BiTree.dir

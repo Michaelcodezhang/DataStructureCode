@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TripleProcess.dir/main.cpp.o CMakeFiles/TripleProcess.dir/Triple/TransponseSMatrix.cpp.o CMakeFiles/TripleProcess.dir/Triple/CreateSMatrix.cpp.o CMakeFiles/TripleProcess.dir/Triple/PrintSMatrix.cpp.o CMakeFiles/TripleProcess.dir/Triple/AddSMatrix.cpp.o  -o TripleProcess 

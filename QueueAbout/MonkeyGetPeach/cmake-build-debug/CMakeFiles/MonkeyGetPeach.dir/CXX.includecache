@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/./Queue/Queue.h
+../main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/./main.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/./main.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/Queue/./Queue.h
+../main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/Queue/main.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/Queue/KeepQueue.cpp
+../main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/main.h
+malloc.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/Queue/malloc.h
+./Queue.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/Queue/./Queue.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/main.cpp
+iostream
+-
+./main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/./main.h
+./Queue/Queue.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/./Queue/Queue.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/QueueAbout/MonkeyGetPeach/main.h
+
