@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SearchBST.dir/main.cpp.o CMakeFiles/SearchBST.dir/SearchBST/SearchBST.cpp.o CMakeFiles/SearchBST.dir/SearchBST/InsertBST.cpp.o CMakeFiles/SearchBST.dir/SearchBST/CreateBST.cpp.o CMakeFiles/SearchBST.dir/SearchBST/DeleteBST.cpp.o  -o SearchBST 

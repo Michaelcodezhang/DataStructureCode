@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SequentialSearch.dir/main.cpp.o CMakeFiles/SequentialSearch.dir/CreateSSTable.cpp.o CMakeFiles/SequentialSearch.dir/Search_Seq.cpp.o CMakeFiles/SequentialSearch.dir/Search_Bin.cpp.o  -o SequentialSearch 

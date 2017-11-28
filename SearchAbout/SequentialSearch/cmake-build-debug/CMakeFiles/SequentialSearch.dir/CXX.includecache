@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/CreateSSTable.cpp
+iostream
+-
+malloc.h
+-
+main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/main.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/Search_Bin.cpp
+main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/main.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/Search_Seq.cpp
+main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/main.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/main.cpp
+iostream
+-
+main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/main.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SearchAbout/SequentialSearch/main.h
+
