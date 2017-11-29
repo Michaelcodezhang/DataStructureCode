@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/BInsertSort.cpp">
+			<Option target="InternalSort"/>
+		</Unit>
 		<Unit filename="/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/CreateSqList.cpp">
 			<Option target="InternalSort"/>
 		</Unit>
@@ -94,6 +97,9 @@
 			<Option target="InternalSort"/>
 		</Unit>
 		<Unit filename="/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/PrintSqList.cpp">
+			<Option target="InternalSort"/>
+		</Unit>
+		<Unit filename="/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/QuickSort.cpp">
 			<Option target="InternalSort"/>
 		</Unit>
 		<Unit filename="/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/SelectSort.cpp">

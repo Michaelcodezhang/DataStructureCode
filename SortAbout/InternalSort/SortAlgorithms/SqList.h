@@ -18,6 +18,8 @@ typedef struct {
 Status CreateSqList(SqList &L);
 Status PrintSqList(SqList L);
 Status InsertSort(SqList &L);
+Status BInsertSort(SqList &L);
+Status QuickSort(SqList &L);
 Status SelectSort(SqList &L);
 Status HeapSort(SqList &H);
 

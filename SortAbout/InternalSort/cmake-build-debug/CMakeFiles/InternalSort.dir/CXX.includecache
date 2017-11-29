@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/BInsertSort.cpp
+../main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/main.h
+SqList.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/SqList.h
+
 /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/CreateSqList.cpp
 iostream
 -
@@ -29,6 +35,12 @@ SqList.h
 /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/PrintSqList.cpp
 iostream
 -
+../main.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/main.h
+SqList.h
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/SqList.h
+
+/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/QuickSort.cpp
 ../main.h
 /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/main.h
 SqList.h

@@ -4,10 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/BInsertSort.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o"
   "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/CreateSqList.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/SortAlgorithms/CreateSqList.cpp.o"
   "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/HeapSort.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o"
   "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/InsertSort.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/SortAlgorithms/InsertSort.cpp.o"
   "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/PrintSqList.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/SortAlgorithms/PrintSqList.cpp.o"
+  "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/QuickSort.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o"
   "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/SelectSort.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/SortAlgorithms/SelectSort.cpp.o"
   "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/main.cpp" "/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles/InternalSort.dir/main.cpp.o"
   )

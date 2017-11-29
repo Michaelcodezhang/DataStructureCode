@@ -123,6 +123,33 @@ InternalSort/fast:
 	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/build
 .PHONY : InternalSort/fast
 
+SortAlgorithms/BInsertSort.o: SortAlgorithms/BInsertSort.cpp.o
+
+.PHONY : SortAlgorithms/BInsertSort.o
+
+# target to build an object file
+SortAlgorithms/BInsertSort.cpp.o:
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o
+.PHONY : SortAlgorithms/BInsertSort.cpp.o
+
+SortAlgorithms/BInsertSort.i: SortAlgorithms/BInsertSort.cpp.i
+
+.PHONY : SortAlgorithms/BInsertSort.i
+
+# target to preprocess a source file
+SortAlgorithms/BInsertSort.cpp.i:
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.i
+.PHONY : SortAlgorithms/BInsertSort.cpp.i
+
+SortAlgorithms/BInsertSort.s: SortAlgorithms/BInsertSort.cpp.s
+
+.PHONY : SortAlgorithms/BInsertSort.s
+
+# target to generate assembly for a file
+SortAlgorithms/BInsertSort.cpp.s:
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.s
+.PHONY : SortAlgorithms/BInsertSort.cpp.s
+
 SortAlgorithms/CreateSqList.o: SortAlgorithms/CreateSqList.cpp.o
 
 .PHONY : SortAlgorithms/CreateSqList.o
@@ -231,6 +258,33 @@ SortAlgorithms/PrintSqList.cpp.s:
 	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/PrintSqList.cpp.s
 .PHONY : SortAlgorithms/PrintSqList.cpp.s
 
+SortAlgorithms/QuickSort.o: SortAlgorithms/QuickSort.cpp.o
+
+.PHONY : SortAlgorithms/QuickSort.o
+
+# target to build an object file
+SortAlgorithms/QuickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o
+.PHONY : SortAlgorithms/QuickSort.cpp.o
+
+SortAlgorithms/QuickSort.i: SortAlgorithms/QuickSort.cpp.i
+
+.PHONY : SortAlgorithms/QuickSort.i
+
+# target to preprocess a source file
+SortAlgorithms/QuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.i
+.PHONY : SortAlgorithms/QuickSort.cpp.i
+
+SortAlgorithms/QuickSort.s: SortAlgorithms/QuickSort.cpp.s
+
+.PHONY : SortAlgorithms/QuickSort.s
+
+# target to generate assembly for a file
+SortAlgorithms/QuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.s
+.PHONY : SortAlgorithms/QuickSort.cpp.s
+
 SortAlgorithms/SelectSort.o: SortAlgorithms/SelectSort.cpp.o
 
 .PHONY : SortAlgorithms/SelectSort.o
@@ -294,6 +348,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... InternalSort"
+	@echo "... SortAlgorithms/BInsertSort.o"
+	@echo "... SortAlgorithms/BInsertSort.i"
+	@echo "... SortAlgorithms/BInsertSort.s"
 	@echo "... SortAlgorithms/CreateSqList.o"
 	@echo "... SortAlgorithms/CreateSqList.i"
 	@echo "... SortAlgorithms/CreateSqList.s"
@@ -306,6 +363,9 @@ help:
 	@echo "... SortAlgorithms/PrintSqList.o"
 	@echo "... SortAlgorithms/PrintSqList.i"
 	@echo "... SortAlgorithms/PrintSqList.s"
+	@echo "... SortAlgorithms/QuickSort.o"
+	@echo "... SortAlgorithms/QuickSort.i"
+	@echo "... SortAlgorithms/QuickSort.s"
 	@echo "... SortAlgorithms/SelectSort.o"
 	@echo "... SortAlgorithms/SelectSort.i"
 	@echo "... SortAlgorithms/SelectSort.s"

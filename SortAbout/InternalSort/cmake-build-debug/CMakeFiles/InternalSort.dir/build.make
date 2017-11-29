@@ -201,6 +201,54 @@ CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o.provides: CMakeFiles/I
 CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o.provides.build: CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o
 
 
+CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o: CMakeFiles/InternalSort.dir/flags.make
+CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o: ../SortAlgorithms/BInsertSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o -c /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/BInsertSort.cpp
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/BInsertSort.cpp > CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.i
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/BInsertSort.cpp -o CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.s
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.requires:
+
+.PHONY : CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.requires
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.provides: CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.requires
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.provides.build
+.PHONY : CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.provides
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.provides.build: CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o
+
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o: CMakeFiles/InternalSort.dir/flags.make
+CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o: ../SortAlgorithms/QuickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o -c /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/QuickSort.cpp
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/QuickSort.cpp > CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.i
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/SortAlgorithms/QuickSort.cpp -o CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.s
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.requires:
+
+.PHONY : CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.requires
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.provides: CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.requires
+	$(MAKE) -f CMakeFiles/InternalSort.dir/build.make CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.provides.build
+.PHONY : CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.provides
+
+CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.provides.build: CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o
+
+
 # Object files for target InternalSort
 InternalSort_OBJECTS = \
 "CMakeFiles/InternalSort.dir/main.cpp.o" \
@@ -208,7 +256,9 @@ InternalSort_OBJECTS = \
 "CMakeFiles/InternalSort.dir/SortAlgorithms/CreateSqList.cpp.o" \
 "CMakeFiles/InternalSort.dir/SortAlgorithms/PrintSqList.cpp.o" \
 "CMakeFiles/InternalSort.dir/SortAlgorithms/SelectSort.cpp.o" \
-"CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o"
+"CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o" \
+"CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o" \
+"CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o"
 
 # External object files for target InternalSort
 InternalSort_EXTERNAL_OBJECTS =
@@ -219,9 +269,11 @@ InternalSort: CMakeFiles/InternalSort.dir/SortAlgorithms/CreateSqList.cpp.o
 InternalSort: CMakeFiles/InternalSort.dir/SortAlgorithms/PrintSqList.cpp.o
 InternalSort: CMakeFiles/InternalSort.dir/SortAlgorithms/SelectSort.cpp.o
 InternalSort: CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o
+InternalSort: CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o
+InternalSort: CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o
 InternalSort: CMakeFiles/InternalSort.dir/build.make
 InternalSort: CMakeFiles/InternalSort.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable InternalSort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/michaelcode/workPlace/CLionProjects/DataStructureCode/SortAbout/InternalSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable InternalSort"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/InternalSort.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -235,6 +287,8 @@ CMakeFiles/InternalSort.dir/requires: CMakeFiles/InternalSort.dir/SortAlgorithms
 CMakeFiles/InternalSort.dir/requires: CMakeFiles/InternalSort.dir/SortAlgorithms/PrintSqList.cpp.o.requires
 CMakeFiles/InternalSort.dir/requires: CMakeFiles/InternalSort.dir/SortAlgorithms/SelectSort.cpp.o.requires
 CMakeFiles/InternalSort.dir/requires: CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o.requires
+CMakeFiles/InternalSort.dir/requires: CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o.requires
+CMakeFiles/InternalSort.dir/requires: CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o.requires
 
 .PHONY : CMakeFiles/InternalSort.dir/requires
 

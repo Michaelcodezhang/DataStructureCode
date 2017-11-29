@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/InternalSort.dir/SortAlgorithms/PrintSqList.cpp.o"
   "CMakeFiles/InternalSort.dir/SortAlgorithms/SelectSort.cpp.o"
   "CMakeFiles/InternalSort.dir/SortAlgorithms/HeapSort.cpp.o"
+  "CMakeFiles/InternalSort.dir/SortAlgorithms/BInsertSort.cpp.o"
+  "CMakeFiles/InternalSort.dir/SortAlgorithms/QuickSort.cpp.o"
   "InternalSort.pdb"
   "InternalSort"
 )
